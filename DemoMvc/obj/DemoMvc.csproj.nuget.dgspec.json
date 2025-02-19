@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\NET-CORE-API\\DemoMvc\\DemoMvc.csproj": {}
+    "D:\\net_core_pttmql\\DemoMvc\\DemoMvc.csproj": {}
   },
   "projects": {
-    "d:\\NET-CORE-API\\DemoMvc\\DemoMvc.csproj": {
+    "D:\\net_core_pttmql\\DemoMvc\\DemoMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\NET-CORE-API\\DemoMvc\\DemoMvc.csproj",
+        "projectUniqueName": "D:\\net_core_pttmql\\DemoMvc\\DemoMvc.csproj",
         "projectName": "DemoMvc",
-        "projectPath": "d:\\NET-CORE-API\\DemoMvc\\DemoMvc.csproj",
+        "projectPath": "D:\\net_core_pttmql\\DemoMvc\\DemoMvc.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "d:\\NET-CORE-API\\DemoMvc\\obj\\",
+        "outputPath": "D:\\net_core_pttmql\\DemoMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config"
